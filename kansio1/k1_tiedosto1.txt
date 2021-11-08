@@ -1,3 +1,5 @@
 Tämähän ei auennut nyt oikeaan tekstieditoriin.
 
 12.50 Muutoksia, jotka päivitetään repoon
+
+13.10 Muutoksia, joiden jälkeen tiedosto lisätään staging-alueelle git add -p komennolla
