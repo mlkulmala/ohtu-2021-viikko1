@@ -1,1 +1,3 @@
 Esimerkki 1. Miten tämän saa avattua Notepad++ -versioon komentoriviltä?
+
+12.49 Muutoksia, jotka päivitetään repoon
