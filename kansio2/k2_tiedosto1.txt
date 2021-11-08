@@ -1,4 +1,0 @@
-111111111111111111111111111
-111111111111111111111111111
-
-13.09 Muutoksia tänne, jotka sitten lisätään staging-alueelle git add -p komennolla
