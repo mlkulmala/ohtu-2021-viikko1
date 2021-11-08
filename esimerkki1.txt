@@ -1,0 +1,1 @@
+Esimerkki 1. Miten tämän saa avattua Notepad++ -versioon komentoriviltä?
